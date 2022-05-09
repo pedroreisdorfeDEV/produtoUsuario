@@ -1,0 +1,15 @@
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\bin\Debug\net6.0\Exercício de fixação.exe
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\bin\Debug\net6.0\Exercício de fixação.deps.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\bin\Debug\net6.0\Exercício de fixação.runtimeconfig.json
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\bin\Debug\net6.0\Exercício de fixação.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\bin\Debug\net6.0\Exercício de fixação.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\Exercício de fixação.csproj.AssemblyReference.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\Exercício de fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\Exercício de fixação.AssemblyInfoInputs.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\Exercício de fixação.AssemblyInfo.cs
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\Exercício de fixação.csproj.CoreCompileInputs.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\Exercício de fixação.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\refint\Exercício de fixação.dll
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\Exercício de fixação.pdb
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\Exercício de fixação.genruntimeconfig.cache
+C:\Users\vinir\OneDrive\Área de Trabalho\Curso C# completo\Herança e Polimorfismo\Exercício de fixação\Exercício de fixação\obj\Debug\net6.0\ref\Exercício de fixação.dll
